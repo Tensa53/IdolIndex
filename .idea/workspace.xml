@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bbb6650-443a-4e80-a901-07bfe3edb5b0" name="Changes" comment="Aggiornato i parametri di connessione al db" />
+    <list default="true" id="5bbb6650-443a-4e80-a901-07bfe3edb5b0" name="Changes" comment="Aggiunta la documentazione in formato pdf" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,8 +33,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/daniele/IdeaProjects/progettoTSW"
+    "last_opened_file_path": "/home/daniele/IdeaProjects/ProgettoBDD/docs"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -54,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666447727363</updated>
-      <workItem from="1666447728623" duration="3336000" />
+      <workItem from="1666447728623" duration="4149000" />
     </task>
     <task id="LOCAL-00001" summary="Inizializzato il progetto">
       <created>1666448800401</created>
@@ -98,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666451176478</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Aggiunta la documentazione in formato pdf">
+      <created>1666451869889</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666451869889</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +130,7 @@
     <MESSAGE value="Aggiornati il Main e il pom.xml" />
     <MESSAGE value="Aggiunti il file del db e della documentazione" />
     <MESSAGE value="Aggiornato i parametri di connessione al db" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aggiornato i parametri di connessione al db" />
+    <MESSAGE value="Aggiunta la documentazione in formato pdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aggiunta la documentazione in formato pdf" />
   </component>
 </project>
