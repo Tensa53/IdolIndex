@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bbb6650-443a-4e80-a901-07bfe3edb5b0" name="Changes" comment="" />
+    <list default="true" id="5bbb6650-443a-4e80-a901-07bfe3edb5b0" name="Changes" comment="Aggiornato i parametri di connessione al db" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GUejhuAFj8CYZYHlFtetwkTJIg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +33,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/daniele/IdeaProjects/progettoTSW"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/db" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/db" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,8 +54,55 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666447727363</updated>
+      <workItem from="1666447728623" duration="3336000" />
     </task>
+    <task id="LOCAL-00001" summary="Inizializzato il progetto">
+      <created>1666448800401</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666448800401</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Aggiunta la classe DataBaseUtils">
+      <created>1666449733636</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666449733636</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Aggiunti i parametri di connessione al db">
+      <created>1666450769134</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666450769134</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Aggiornati il Main e il pom.xml">
+      <created>1666450811874</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666450811874</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Aggiunti il file del db e della documentazione">
+      <created>1666451120372</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666451120372</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Aggiornato i parametri di connessione al db">
+      <created>1666451176478</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666451176478</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -44,5 +114,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inizializzato il progetto" />
+    <MESSAGE value="Aggiunta la classe DataBaseUtils" />
+    <MESSAGE value="Aggiunti i parametri di connessione al db" />
+    <MESSAGE value="Aggiornati il Main e il pom.xml" />
+    <MESSAGE value="Aggiunti il file del db e della documentazione" />
+    <MESSAGE value="Aggiornato i parametri di connessione al db" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aggiornato i parametri di connessione al db" />
   </component>
 </project>
