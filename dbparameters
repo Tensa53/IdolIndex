@@ -1,3 +1,3 @@
-user=root
+user=bdd
 password=pizza
 url=jdbc:mysql://localhost:3306/casadiscografica
