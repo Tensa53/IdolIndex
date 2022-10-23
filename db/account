@@ -1,0 +1,6 @@
+istruzioni per creare l'utente del dbms :
+mysql -u root
+
+CREATE USER 'bdd' IDENTIFIED BY 'pizza';
+
+GRANT ALL PRIVILEGES ON *.* TO 'bdd';
