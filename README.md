@@ -3,6 +3,7 @@ Il seguente applicativo permette di effettuare operazioni di visualizzazione,ins
 Per la documentazione consultare il file pdf nella directory docs
 
 ## Strumenti utilizzati:
+- Java OpenJDK 17
 - Intellij IDEA
 - Mysql-connector-j
 - Mysql Workbench
